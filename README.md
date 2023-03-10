@@ -1,2 +1,2 @@
-# CV
-My CV
+# Sam White
+## About me
