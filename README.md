@@ -5,7 +5,7 @@
 **Email:** sam.white745@gmail.com 
 
 ## About me
-stuff about me
+An excited software developer with a passion for solving problems intelligently. A recent graduate of the Makers boot camp with a focus on making interesting programs and the value of feedback.
 
 ## Education and Qualifications
 ### Makers Training (2023)
@@ -56,13 +56,18 @@ As a Software Development Consultant Trainee, I underwent a 12-week intensive tr
 During my time at the University of Bristol, I pursued a degree in Computer Science. Notably, I participated in an Agile development project focused on creating a Java-based scheduling system for smart appliances. The project aimed to reduce peak energy consumption in Bristol. I contributed to algorithm development and various database manipulation tasks in this project.
 
 ### Technologies and Tools
-- **Programming Languages:** Java, Scala, Python, C, HTML, CSS, JavaScript, Haskell
-- **Operating Systems:** Windows, Linux (Ubuntu)
-- **DevOps Technologies:** Jenkins, Git, Docker
+- **Programming Languages:** Java, Scala, Ruby, HTML, JavaScript, SQL
+- **Operating Systems:** Windows, Linux (Ubuntu), MacOS
+- **DevOps Technologies:** Git
 - **Database Technologies:** MySQL, MongoDB
-- **Other:** Agile Scrum, Waterfall, Postman, JUnit, Spring Boot, Maven
+- **Other:** Agile, Waterfall, Postman, JUnit, Spring Boot, Maven
 
 ## Notable Repos
 
-- [insert repo link here]()
-- [here's another one!]()
+- [LUPO](https://github.com/pablisch/lupo)
+  - Converting TFL's tube train arrival data into audio/visual art
+- [Acebook](https://github.com/siqbal181/acebook-mern-template)
+  - Learning how to use the MERN stack
+- [Bank Tech Test](https://github.com/SamWhite745/bank-tech-test)
+  - A generic tech test solution
+
